@@ -1,4 +1,4 @@
-# 🧠 Lecture 0: Introduction
+# 📖 Lecture 0: Introduction
 
 Welcome to the Modern Neural Network Architectures course! This introductory lecture provides an overview of the course structure, expectations, and resources.
 
