@@ -10,6 +10,9 @@ Welcome to the Modern Neural Network Architectures course! This introductory lec
 ### [🧠 Lecture 1: Convolutional Neural Networks](./1/)
 This lecture explores the evolution of convolutional neural networks from the pioneering LeNet (1990) to the state-of-the-art EfficientNet (2019). We'll dive deep into the architectural innovations, design principles, and breakthroughs that shaped modern CNN development over three decades.
 
+### [🔄 Lecture 2: Transformers Basic](./2/)
+This lecture introduces the revolutionary Transformer architecture that has transformed the field of natural language processing and beyond. We'll explore tokenization, Byte Pair Encoding (BPE), positional encoding, and dive deep into the architecture of Transformers, BERT, and GPT models, including parameter scaling discussions.
+
 ---
 
 ## 🔗 Main Course Resources
