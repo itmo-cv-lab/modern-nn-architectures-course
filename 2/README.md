@@ -15,7 +15,7 @@ This lecture introduces the revolutionary Transformer architecture that has tran
 - **Jupyter Notebook:** [`2_transformers_nlp.ipynb`](./2_transformers_nlp.ipynb)
 
 ## 📝 Homework Assignment
-todo :)
+- **Assignment Details:** [Google Drive Document](https://docs.google.com/document/d/1dyrNkDTJfaolxkdJJ9-3F1fMCthoeXgtrBxxJ0FRXEI/edit?usp=sharing)
 
 ---
 
