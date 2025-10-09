@@ -15,7 +15,7 @@ This lecture explores advanced concepts in modern Transformer architectures and 
 - **Jupyter Notebook:** [`3_lora_qlora_finetune.ipynb`](./3_lora_qlora_finetune.ipynb)
 
 ## 📝 Homework Assignment
-- **Assignment Details:** [Google Drive Document](https://docs.google.com/document/d/1dyrNkDTJfaolxkdJJ9-3F1fMCthoeXgtrBxxJ0FRXEI/edit?usp=sharing)
+- **Assignment Details:** [Google Drive Document](https://docs.google.com/document/d/1UI1qAYeDnAK8zHcaNPFUSdI8sSEQq_8NAnlVLpXCdHo/edit?usp=sharing)
 
 ## 🎯 Key Topics Covered
 
