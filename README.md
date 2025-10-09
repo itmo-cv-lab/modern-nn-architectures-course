@@ -13,6 +13,9 @@ This lecture explores the evolution of convolutional neural networks from the pi
 ### [🔄 Lecture 2: Transformers Basic](./2/)
 This lecture introduces the revolutionary Transformer architecture that has transformed the field of natural language processing and beyond. We'll explore tokenization, Byte Pair Encoding (BPE), positional encoding, and dive deep into the architecture of Transformers, BERT, and GPT models, including parameter scaling discussions.
 
+### [🚀 Lecture 3: Transformers Advanced](./3/)
+This lecture explores advanced concepts in modern Transformer architectures and how they drive today's large language models. We'll cover Scaling Laws, inference optimization techniques (KV-cache, speculative decoding), architectural innovations (GQA/MQA, sliding-window, sparse attention, Mixture of Experts), and parameter-efficient fine-tuning methods like LoRA.
+
 ---
 
 ## 🔗 Main Course Resources
