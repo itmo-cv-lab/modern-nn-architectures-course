@@ -16,6 +16,9 @@ This lecture introduces the revolutionary Transformer architecture that has tran
 ### [🚀 Lecture 3: Transformers Advanced](./3/)
 This lecture explores advanced concepts in modern Transformer architectures and how they drive today's large language models. We'll cover Scaling Laws, inference optimization techniques (KV-cache, speculative decoding), architectural innovations (GQA/MQA, sliding-window, sparse attention, Mixture of Experts), and parameter-efficient fine-tuning methods like LoRA.
 
+### [🎨 Lecture 4: Generative Computer Vision Basic](./4/)
+This lecture explores the fundamental theory of generative models and their classification based on density approximation approaches. We'll examine how generative models are categorized into three main types: those that compute density directly (ARMs), those that approximate it using ELBO (VAE, Diffusion Models), and those that don't rely on density estimation (GANs). The lecture covers ARMs (Pixel CNN), GANs (including WGAN and Earth Mover's Distance), and VAEs (Bayesian Framework, ELBO, Reparameterization Trick).
+
 ---
 
 ## 🔗 Main Course Resources
