@@ -19,6 +19,9 @@ This lecture explores advanced concepts in modern Transformer architectures and 
 ### [🎨 Lecture 4: Generative Computer Vision Basic](./4/)
 This lecture explores the fundamental theory of generative models and their classification based on density approximation approaches. We'll examine how generative models are categorized into three main types: those that compute density directly (ARMs), those that approximate it using ELBO (VAE, Diffusion Models), and those that don't rely on density estimation (GANs). The lecture covers ARMs (Pixel CNN), GANs (including WGAN and Earth Mover's Distance), and VAEs (Bayesian Framework, ELBO, Reparameterization Trick).
 
+### [🌊 Lecture 5: Diffusion Models](./5/)
+This lecture explores diffusion models — one of the most powerful approaches to generative modeling in modern computer vision. We'll dive deep into the theoretical foundations of diffusion processes, covering model training procedures, the Diffusion Transformer (DiT) architecture, and applications in video generation.
+
 ---
 
 ## 🔗 Main Course Resources
