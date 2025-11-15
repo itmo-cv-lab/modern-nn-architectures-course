@@ -5,7 +5,7 @@ This lecture explores diffusion models — one of the most powerful approaches t
 ## 📚 Course Materials
 
 ### 📖 Lecture Slides
-- **PowerPoint Version:** [`Лекция ИТМО.pptx`](./Лекция ИТМО.pptx)
+- **PowerPoint Version:** [`5_gencv_advanced.pptx`](./5_gencv_advanced.pptx)
 
 ### 💻 Practice Notebook
 - **Google Colab:** [Practice Notebook](https://colab.research.google.com/drive/1w_J5ywNI8NYdugx5nCDNkIqgmgks8BEi?usp=sharing)
