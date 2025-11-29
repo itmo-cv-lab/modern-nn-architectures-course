@@ -22,6 +22,9 @@ This lecture explores the fundamental theory of generative models and their clas
 ### [🌊 Lecture 5: Diffusion Models](./5/)
 This lecture explores diffusion models — one of the most powerful approaches to generative modeling in modern computer vision. We'll dive deep into the theoretical foundations of diffusion processes, covering model training procedures, the Diffusion Transformer (DiT) architecture, and applications in video generation.
 
+### [🔗 Lecture 6: Multimodal Architecture](./6/)
+This lecture explores multimodal neural network architectures that can process and understand both visual and textual information simultaneously. We'll dive deep into CLIP (Contrastive Language-Image Pre-training) and BLIP (Bootstrapping Language-Image Pre-training) models, covering their architectures, training procedures, and applications in image-text retrieval, zero-shot classification, image captioning, and visual question answering.
+
 ---
 
 ## 🔗 Main Course Resources
