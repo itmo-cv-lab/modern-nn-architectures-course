@@ -25,6 +25,9 @@ This lecture explores diffusion models — one of the most powerful approaches t
 ### [🔗 Lecture 6: Multimodal Architecture](./6/)
 This lecture explores multimodal neural network architectures that can process and understand both visual and textual information simultaneously. We'll dive deep into CLIP (Contrastive Language-Image Pre-training) and BLIP (Bootstrapping Language-Image Pre-training) models, covering their architectures, training procedures, and applications in image-text retrieval, zero-shot classification, image captioning, and visual question answering.
 
+### [🎯 Lecture 7: Efficient Deep Learning — Quantization, Pruning & Distillation](./7/)
+This lecture explores essential model compression and optimization techniques for deploying large neural networks efficiently. We'll cover Quantization (number formats FP32/FP16/INT8, linear quantization, PTQ vs QAT, AWQ/GPTQ/GGUF), Pruning (magnitude pruning, iterative pruning), Knowledge Distillation (teacher-student frameworks, feature-based and relation-based distillation), and Mixed Precision Training (FP16 with FP32 master weights, 30–50% VRAM savings). These techniques are critical for deploying LLMs on limited resources, reducing inference costs, and working with mobile and edge devices.
+
 ---
 
 ## 🔗 Main Course Resources
